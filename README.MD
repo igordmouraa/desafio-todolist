@@ -24,8 +24,6 @@ A API permite realizar operações CRUD (Create, Read, Update, Delete) sobre tar
 - **Atualizar tarefas** ✏️: Você pode modificar os detalhes de uma tarefa existente.
 - **Remover tarefas** 🗑️: Permite excluir uma tarefa específica.
 
-Além disso, a API é documentada automaticamente através do **Swagger** 📚, permitindo visualização e teste das rotas diretamente no navegador.
-
 ## Estrutura do Projeto 📁
 
 O projeto segue uma arquitetura simples e bem organizada, com as seguintes pastas principais:
